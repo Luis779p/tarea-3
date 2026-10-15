@@ -1,0 +1,15 @@
+body {
+    color: blue;
+}
+
+body {
+    color: red !important;
+}
+
+body p {
+    color: green;
+}
+
+p {
+    color: blue;
+}
