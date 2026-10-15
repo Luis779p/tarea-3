@@ -1,0 +1,16 @@
+body {
+    margin: 20px, 20px, 20px, 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    width: 200px;
+}
+
+input[name="email"] {
+  background-color: #eeeeee;
+}
+
+p, label {
+    font-family: Tahoma, sans-serif !important;
+}
